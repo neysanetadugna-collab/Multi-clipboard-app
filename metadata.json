@@ -1,0 +1,6 @@
+{
+  "name": "Multi Clipboard",
+  "description": "Smart, high-performance clipboard manager optimized for Redmi Note 13 Pro+ with 1.5K AMOLED edge-to-edge display, history, tags, floating quick access, and backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

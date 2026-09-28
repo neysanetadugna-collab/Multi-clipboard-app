@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multi Clipboard</string>
+    <string name="accessibility_service_description">Allows Multi Clipboard to seamlessly detect copy actions across all apps and in background on Android 13/14+ and Xiaomi HyperOS/MIUI.</string>
+    <string name="clipboard_notification_channel_name">Clipboard Monitor Service</string>
+    <string name="clipboard_notification_channel_desc">Active foreground service keeping clipboard monitoring alive and offering quick access actions</string>
+    <string name="notification_clip_copied">Copied to clipboard</string>
+    <string name="notification_quick_copy">Copy Last</string>
+    <string name="notification_add_clip">Add Clip</string>
+    <string name="notification_open_app">Open App</string>
+</resources>
